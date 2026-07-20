@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "517418483759",
+    "project_id": "cardioguard-3d7f0",
+    "storage_bucket": "cardioguard-3d7f0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:517418483759:android:a56ed5492c04a4d85c86da",
+        "android_client_info": {
+          "package_name": "com.mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "517418483759-1af5vni0c2njqrb4ol54qcnmbtguruug.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzuRq-pn_wDhtz_fFB2RuQz2KBr82Yt0g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "517418483759-1af5vni0c2njqrb4ol54qcnmbtguruug.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
